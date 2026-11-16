@@ -2,7 +2,7 @@
 
 <!--
 **cjy0917/cjy0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### :octocat:안녕하세요? 최재영입니다.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
